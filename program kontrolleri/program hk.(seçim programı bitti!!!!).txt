@@ -1,0 +1,17 @@
+1. Adım: Oy vermek isteyenlerin Excel Dosyasını Google Formlardan çıkar (✔)
+
+2. Adım: O Excel dosyasını buraya aktar (✔)
+
+3. Adım: Aktardıktan sonra mailleri tarayalım ve 2 şart koşalım: eğer hacettepe.edu.tr'den başka bir adres varsa ya da aynı mail adresi iki kere yazılmışsa(gayet mümkün farklı gmail/hotmail adresleri ile formu doldurmak ya da ip adresi filan)(✔)
+
+4. Adım: sonra da çıkartılacak olanları çıkartalım ve yeni halini başka bir dosyaya aktaralım (✔)
+
+5. Adım: bu saf hali ile artık doğrulama kodlarını gönderelim (✔)
+
+6. Adım: doğrulama kodu ile gönderilmiş olan oyları alalım (✔)
+
+7. Adım: Alınan kodlar ile elimizdeki mevcut kodları açalım ve bakalım uyuşmayan kodlar var mı, varsa o kişilerin oylarının ayıklayalım (✔)
+
+8. Adım:  ve açılacak oyları belirtelim, sonra da tek tek açma eylemi(✔)
+
+toplam 18 karakter isim iyidir, fazlasında ekip ismi sığmamaya başlıyor artık ama programın minimalistiği ve estetikliği açısından bu çok gerekli, yoksa çok estetiksiz ve bakmaktan hiç de zevk almayacağım bir iş ortaya çıkmış olur

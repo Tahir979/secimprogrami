@@ -1,0 +1,8 @@
+1. Acces veritabanı kullanılmıştır bu yüzden şunu indirin: https://www.microsoft.com/en-us/download/details.aspx?id=13255
+
+2. Sizde olması gereken en düşük framework sürümü: 4.7.2
+
+3. İndirdikten sonra şu videodakileri uygulayın: https://www.youtube.com/watch?v=pl59ODaP6no
+
+
+Setup hali için "Inno Setup Compiler" iş görecektir

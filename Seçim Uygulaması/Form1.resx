@@ -1,0 +1,1947 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="metroGrid4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>633, 629</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="metroGrid4.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="metroGrid4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>17, 23</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="metroGrid4.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="metroGrid4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid4.Name" xml:space="preserve">
+    <value>metroGrid4</value>
+  </data>
+  <data name="&gt;&gt;metroGrid4.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid4.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="metroGrid2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>580, 629</value>
+  </data>
+  <data name="metroGrid2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>19, 23</value>
+  </data>
+  <data name="metroGrid2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="metroGrid2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid2.Name" xml:space="preserve">
+    <value>metroGrid2</value>
+  </data>
+  <data name="&gt;&gt;metroGrid2.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="listBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 308</value>
+  </data>
+  <data name="listBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 117</value>
+  </data>
+  <data name="listBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="listBox3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox3.Name" xml:space="preserve">
+    <value>listBox3</value>
+  </data>
+  <data name="&gt;&gt;listBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox3.ZOrder" xml:space="preserve">
+    <value>63</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>656, 658</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 20</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textBox1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>62</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 589</value>
+  </data>
+  <data name="textBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>20, 20</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="textBox2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="metroLabel11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>478, 428</value>
+  </data>
+  <data name="metroLabel11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="metroLabel11.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="metroLabel11.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="metroLabel11.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel11.Name" xml:space="preserve">
+    <value>metroLabel11</value>
+  </data>
+  <data name="&gt;&gt;metroLabel11.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel11.ZOrder" xml:space="preserve">
+    <value>61</value>
+  </data>
+  <data name="metroLink3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 279</value>
+  </data>
+  <data name="metroLink3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 23</value>
+  </data>
+  <data name="metroLink3.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="metroLink3.Text" xml:space="preserve">
+    <value>Hatalı Mail Adreslerini Göster</value>
+  </data>
+  <data name="&gt;&gt;metroLink3.Name" xml:space="preserve">
+    <value>metroLink3</value>
+  </data>
+  <data name="&gt;&gt;metroLink3.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLink, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLink3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLink3.ZOrder" xml:space="preserve">
+    <value>60</value>
+  </data>
+  <data name="metroLabel12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>239, 428</value>
+  </data>
+  <data name="metroLabel12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 23</value>
+  </data>
+  <data name="metroLabel12.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="metroLabel12.Text" xml:space="preserve">
+    <value>Kod Gönderilebilecek Toplam Kişi Sayısı:</value>
+  </data>
+  <data name="&gt;&gt;metroLabel12.Name" xml:space="preserve">
+    <value>metroLabel12</value>
+  </data>
+  <data name="&gt;&gt;metroLabel12.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel12.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel12.ZOrder" xml:space="preserve">
+    <value>59</value>
+  </data>
+  <data name="listBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>752, 723</value>
+  </data>
+  <data name="listBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 30</value>
+  </data>
+  <data name="listBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="listBox1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Name" xml:space="preserve">
+    <value>listBox1</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="listBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>752, 687</value>
+  </data>
+  <data name="listBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 30</value>
+  </data>
+  <data name="listBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="listBox2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox2.Name" xml:space="preserve">
+    <value>listBox2</value>
+  </data>
+  <data name="&gt;&gt;listBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox2.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="metroGrid1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>580, 607</value>
+  </data>
+  <data name="metroGrid1.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="metroGrid1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>19, 19</value>
+  </data>
+  <data name="metroGrid1.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="metroGrid1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid1.Name" xml:space="preserve">
+    <value>metroGrid1</value>
+  </data>
+  <data name="&gt;&gt;metroGrid1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid1.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="metroProgressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 428</value>
+  </data>
+  <data name="metroProgressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 23</value>
+  </data>
+  <data name="metroProgressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>78</value>
+  </data>
+  <data name="metroProgressBar1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroProgressBar1.Name" xml:space="preserve">
+    <value>metroProgressBar1</value>
+  </data>
+  <data name="&gt;&gt;metroProgressBar1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroProgressBar, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroProgressBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroProgressBar1.ZOrder" xml:space="preserve">
+    <value>55</value>
+  </data>
+  <data name="metroLabel9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 454</value>
+  </data>
+  <data name="metroLabel9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 42</value>
+  </data>
+  <data name="metroLabel9.TabIndex" type="System.Int32, mscorlib">
+    <value>80</value>
+  </data>
+  <data name="metroLabel9.Text" xml:space="preserve">
+    <value>Mailler Gönderiliyor... Lütfen Programı Kapatmayınız...</value>
+  </data>
+  <data name="metroLabel9.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="metroLabel9.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel9.Name" xml:space="preserve">
+    <value>metroLabel9</value>
+  </data>
+  <data name="&gt;&gt;metroLabel9.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel9.ZOrder" xml:space="preserve">
+    <value>56</value>
+  </data>
+  <data name="metroLabel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>529, 428</value>
+  </data>
+  <data name="metroLabel8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 23</value>
+  </data>
+  <data name="metroLabel8.TabIndex" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="metroLabel8.Text" xml:space="preserve">
+    <value>%0.00</value>
+  </data>
+  <data name="metroLabel8.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="metroLabel8.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel8.Name" xml:space="preserve">
+    <value>metroLabel8</value>
+  </data>
+  <data name="&gt;&gt;metroLabel8.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel8.ZOrder" xml:space="preserve">
+    <value>58</value>
+  </data>
+  <data name="resource.Image" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 1</value>
+  </data>
+  <data name="resource.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 21</value>
+  </data>
+  <data name="resource.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txt_kod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>691, 658</value>
+  </data>
+  <data name="txt_kod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 23</value>
+  </data>
+  <data name="txt_kod.TabIndex" type="System.Int32, mscorlib">
+    <value>81</value>
+  </data>
+  <data name="txt_kod.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txt_kod.Name" xml:space="preserve">
+    <value>txt_kod</value>
+  </data>
+  <data name="&gt;&gt;txt_kod.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;txt_kod.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_kod.ZOrder" xml:space="preserve">
+    <value>43</value>
+  </data>
+  <data name="resource.Image1" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.Location1" type="System.Drawing.Point, System.Drawing">
+    <value>10, 1</value>
+  </data>
+  <data name="resource.Size1" type="System.Drawing.Size, System.Drawing">
+    <value>21, 21</value>
+  </data>
+  <data name="resource.TabIndex1" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible1" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txt_email.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 658</value>
+  </data>
+  <data name="txt_email.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="txt_email.TabIndex" type="System.Int32, mscorlib">
+    <value>82</value>
+  </data>
+  <data name="txt_email.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txt_email.Name" xml:space="preserve">
+    <value>txt_email</value>
+  </data>
+  <data name="&gt;&gt;txt_email.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;txt_email.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_email.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <data name="resource.Image2" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="resource.Location2" type="System.Drawing.Point, System.Drawing">
+    <value>11, 1</value>
+  </data>
+  <data name="resource.Size2" type="System.Drawing.Size, System.Drawing">
+    <value>21, 21</value>
+  </data>
+  <data name="resource.TabIndex2" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="resource.Visible2" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txt_isim.Location" type="System.Drawing.Point, System.Drawing">
+    <value>617, 655</value>
+  </data>
+  <data name="txt_isim.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 23</value>
+  </data>
+  <data name="txt_isim.TabIndex" type="System.Int32, mscorlib">
+    <value>83</value>
+  </data>
+  <data name="txt_isim.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txt_isim.Name" xml:space="preserve">
+    <value>txt_isim</value>
+  </data>
+  <data name="&gt;&gt;txt_isim.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;txt_isim.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_isim.ZOrder" xml:space="preserve">
+    <value>53</value>
+  </data>
+  <data name="lst_kodlar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>753, 651</value>
+  </data>
+  <data name="lst_kodlar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 30</value>
+  </data>
+  <data name="lst_kodlar.TabIndex" type="System.Int32, mscorlib">
+    <value>85</value>
+  </data>
+  <data name="lst_kodlar.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_kodlar.Name" xml:space="preserve">
+    <value>lst_kodlar</value>
+  </data>
+  <data name="&gt;&gt;lst_kodlar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_kodlar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_kodlar.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <data name="lst_isimler.Location" type="System.Drawing.Point, System.Drawing">
+    <value>716, 687</value>
+  </data>
+  <data name="lst_isimler.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 30</value>
+  </data>
+  <data name="lst_isimler.TabIndex" type="System.Int32, mscorlib">
+    <value>86</value>
+  </data>
+  <data name="lst_isimler.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_isimler.Name" xml:space="preserve">
+    <value>lst_isimler</value>
+  </data>
+  <data name="&gt;&gt;lst_isimler.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_isimler.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_isimler.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="metroGrid3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>656, 607</value>
+  </data>
+  <data name="metroGrid3.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="metroGrid3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 18</value>
+  </data>
+  <data name="metroGrid3.TabIndex" type="System.Int32, mscorlib">
+    <value>93</value>
+  </data>
+  <data name="metroGrid3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid3.Name" xml:space="preserve">
+    <value>metroGrid3</value>
+  </data>
+  <data name="&gt;&gt;metroGrid3.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid3.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="metroLabel5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>239, 972</value>
+  </data>
+  <data name="metroLabel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 19</value>
+  </data>
+  <data name="metroLabel5.TabIndex" type="System.Int32, mscorlib">
+    <value>92</value>
+  </data>
+  <data name="metroLabel5.Text" xml:space="preserve">
+    <value>Kod Alınan Toplam Kişi Sayısı:</value>
+  </data>
+  <data name="&gt;&gt;metroLabel5.Name" xml:space="preserve">
+    <value>metroLabel5</value>
+  </data>
+  <data name="&gt;&gt;metroLabel5.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel5.ZOrder" xml:space="preserve">
+    <value>49</value>
+  </data>
+  <data name="metroLabel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 972</value>
+  </data>
+  <data name="metroLabel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 23</value>
+  </data>
+  <data name="metroLabel6.TabIndex" type="System.Int32, mscorlib">
+    <value>91</value>
+  </data>
+  <data name="metroLabel6.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="metroLabel6.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel6.Name" xml:space="preserve">
+    <value>metroLabel6</value>
+  </data>
+  <data name="&gt;&gt;metroLabel6.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel6.ZOrder" xml:space="preserve">
+    <value>48</value>
+  </data>
+  <data name="metroGrid5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>605, 607</value>
+  </data>
+  <data name="metroGrid5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 19</value>
+  </data>
+  <data name="metroGrid5.TabIndex" type="System.Int32, mscorlib">
+    <value>97</value>
+  </data>
+  <data name="metroGrid5.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid5.Name" xml:space="preserve">
+    <value>metroGrid5</value>
+  </data>
+  <data name="&gt;&gt;metroGrid5.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid5.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="lst_onaylanan_kod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>580, 687</value>
+  </data>
+  <data name="lst_onaylanan_kod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>28, 30</value>
+  </data>
+  <data name="lst_onaylanan_kod.TabIndex" type="System.Int32, mscorlib">
+    <value>98</value>
+  </data>
+  <data name="lst_onaylanan_kod.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_kod.Name" xml:space="preserve">
+    <value>lst_onaylanan_kod</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_kod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_kod.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_kod.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="lst_onaylanmayan_kod.Location" type="System.Drawing.Point, System.Drawing">
+    <value>614, 687</value>
+  </data>
+  <data name="lst_onaylanmayan_kod.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 30</value>
+  </data>
+  <data name="lst_onaylanmayan_kod.TabIndex" type="System.Int32, mscorlib">
+    <value>99</value>
+  </data>
+  <data name="lst_onaylanmayan_kod.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_kod.Name" xml:space="preserve">
+    <value>lst_onaylanmayan_kod</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_kod.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_kod.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_kod.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="metroLabel3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 41</value>
+  </data>
+  <data name="metroLabel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>256, 19</value>
+  </data>
+  <data name="metroLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>100</value>
+  </data>
+  <data name="metroLabel3.Text" xml:space="preserve">
+    <value>1. Aşama - Doğrulama Kodu Gönderimleri</value>
+  </data>
+  <data name="&gt;&gt;metroLabel3.Name" xml:space="preserve">
+    <value>metroLabel3</value>
+  </data>
+  <data name="&gt;&gt;metroLabel3.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel3.ZOrder" xml:space="preserve">
+    <value>47</value>
+  </data>
+  <data name="metroLabel4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 585</value>
+  </data>
+  <data name="metroLabel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 19</value>
+  </data>
+  <data name="metroLabel4.TabIndex" type="System.Int32, mscorlib">
+    <value>101</value>
+  </data>
+  <data name="metroLabel4.Text" xml:space="preserve">
+    <value>2. Aşama - Doğrulama Kodu Kontrolleri</value>
+  </data>
+  <data name="&gt;&gt;metroLabel4.Name" xml:space="preserve">
+    <value>metroLabel4</value>
+  </data>
+  <data name="&gt;&gt;metroLabel4.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel4.ZOrder" xml:space="preserve">
+    <value>46</value>
+  </data>
+  <data name="lst_onaylanan_isim.Location" type="System.Drawing.Point, System.Drawing">
+    <value>610, 723</value>
+  </data>
+  <data name="lst_onaylanan_isim.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 30</value>
+  </data>
+  <data name="lst_onaylanan_isim.TabIndex" type="System.Int32, mscorlib">
+    <value>102</value>
+  </data>
+  <data name="lst_onaylanan_isim.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_isim.Name" xml:space="preserve">
+    <value>lst_onaylanan_isim</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_isim.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_isim.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_isim.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="lst_onaylanmayan_isim.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 723</value>
+  </data>
+  <data name="lst_onaylanmayan_isim.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 30</value>
+  </data>
+  <data name="lst_onaylanmayan_isim.TabIndex" type="System.Int32, mscorlib">
+    <value>103</value>
+  </data>
+  <data name="lst_onaylanmayan_isim.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_isim.Name" xml:space="preserve">
+    <value>lst_onaylanmayan_isim</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_isim.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_isim.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_isim.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="metroLabel7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 995</value>
+  </data>
+  <data name="metroLabel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 19</value>
+  </data>
+  <data name="metroLabel7.TabIndex" type="System.Int32, mscorlib">
+    <value>104</value>
+  </data>
+  <data name="metroLabel7.Text" xml:space="preserve">
+    <value>Geçerli Toplam Kişi Sayısı:</value>
+  </data>
+  <data name="&gt;&gt;metroLabel7.Name" xml:space="preserve">
+    <value>metroLabel7</value>
+  </data>
+  <data name="&gt;&gt;metroLabel7.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel7.ZOrder" xml:space="preserve">
+    <value>45</value>
+  </data>
+  <data name="metroLabel10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 995</value>
+  </data>
+  <data name="metroLabel10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 23</value>
+  </data>
+  <data name="metroLabel10.TabIndex" type="System.Int32, mscorlib">
+    <value>105</value>
+  </data>
+  <data name="metroLabel10.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="metroLabel10.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel10.Name" xml:space="preserve">
+    <value>metroLabel10</value>
+  </data>
+  <data name="&gt;&gt;metroLabel10.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel10.ZOrder" xml:space="preserve">
+    <value>44</value>
+  </data>
+  <data name="lst_onaylanan_oy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>648, 687</value>
+  </data>
+  <data name="lst_onaylanan_oy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 30</value>
+  </data>
+  <data name="lst_onaylanan_oy.TabIndex" type="System.Int32, mscorlib">
+    <value>106</value>
+  </data>
+  <data name="lst_onaylanan_oy.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_oy.Name" xml:space="preserve">
+    <value>lst_onaylanan_oy</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_oy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_oy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanan_oy.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="lst_onaylanmayan_oy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>683, 687</value>
+  </data>
+  <data name="lst_onaylanmayan_oy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 30</value>
+  </data>
+  <data name="lst_onaylanmayan_oy.TabIndex" type="System.Int32, mscorlib">
+    <value>107</value>
+  </data>
+  <data name="lst_onaylanmayan_oy.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_oy.Name" xml:space="preserve">
+    <value>lst_onaylanmayan_oy</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_oy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_oy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_onaylanmayan_oy.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="metroGrid6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>852, 63</value>
+  </data>
+  <data name="metroGrid6.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="metroGrid6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>450, 906</value>
+  </data>
+  <data name="metroGrid6.TabIndex" type="System.Int32, mscorlib">
+    <value>113</value>
+  </data>
+  <data name="metroGrid6.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid6.Name" xml:space="preserve">
+    <value>metroGrid6</value>
+  </data>
+  <data name="&gt;&gt;metroGrid6.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid6.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="metroLabel15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>997, 41</value>
+  </data>
+  <data name="metroLabel15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 19</value>
+  </data>
+  <data name="metroLabel15.TabIndex" type="System.Int32, mscorlib">
+    <value>114</value>
+  </data>
+  <data name="metroLabel15.Text" xml:space="preserve">
+    <value>3. Aşama - Oyların Sayımı</value>
+  </data>
+  <data name="&gt;&gt;metroLabel15.Name" xml:space="preserve">
+    <value>metroLabel15</value>
+  </data>
+  <data name="&gt;&gt;metroLabel15.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel15.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel15.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="metroLabel16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1429, 38</value>
+  </data>
+  <data name="metroLabel16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 19</value>
+  </data>
+  <data name="metroLabel16.TabIndex" type="System.Int32, mscorlib">
+    <value>115</value>
+  </data>
+  <data name="metroLabel16.Text" xml:space="preserve">
+    <value>Oylama Tablosu</value>
+  </data>
+  <data name="&gt;&gt;metroLabel16.Name" xml:space="preserve">
+    <value>metroLabel16</value>
+  </data>
+  <data name="&gt;&gt;metroLabel16.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel16.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel16.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="metroLabel17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1425, 42</value>
+  </data>
+  <data name="metroLabel17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 19</value>
+  </data>
+  <data name="metroLabel17.TabIndex" type="System.Int32, mscorlib">
+    <value>116</value>
+  </data>
+  <data name="metroLabel17.Text" xml:space="preserve">
+    <value>_________________</value>
+  </data>
+  <data name="&gt;&gt;metroLabel17.Name" xml:space="preserve">
+    <value>metroLabel17</value>
+  </data>
+  <data name="&gt;&gt;metroLabel17.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel17.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel17.ZOrder" xml:space="preserve">
+    <value>66</value>
+  </data>
+  <data name="metroGrid7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1352, 63</value>
+  </data>
+  <data name="metroGrid7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>256, 906</value>
+  </data>
+  <data name="metroGrid7.TabIndex" type="System.Int32, mscorlib">
+    <value>121</value>
+  </data>
+  <data name="&gt;&gt;metroGrid7.Name" xml:space="preserve">
+    <value>metroGrid7</value>
+  </data>
+  <data name="&gt;&gt;metroGrid7.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid7.ZOrder" xml:space="preserve">
+    <value>67</value>
+  </data>
+  <data name="metroGrid8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>633, 603</value>
+  </data>
+  <data name="metroGrid8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>18, 23</value>
+  </data>
+  <data name="metroGrid8.TabIndex" type="System.Int32, mscorlib">
+    <value>122</value>
+  </data>
+  <data name="metroGrid8.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid8.Name" xml:space="preserve">
+    <value>metroGrid8</value>
+  </data>
+  <data name="&gt;&gt;metroGrid8.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid8.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="listBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>580, 723</value>
+  </data>
+  <data name="listBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 30</value>
+  </data>
+  <data name="listBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>123</value>
+  </data>
+  <data name="listBox5.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox5.Name" xml:space="preserve">
+    <value>listBox5</value>
+  </data>
+  <data name="&gt;&gt;listBox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox5.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="lst_tıklatmama.Location" type="System.Drawing.Point, System.Drawing">
+    <value>752, 615</value>
+  </data>
+  <data name="lst_tıklatmama.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 30</value>
+  </data>
+  <data name="lst_tıklatmama.TabIndex" type="System.Int32, mscorlib">
+    <value>124</value>
+  </data>
+  <data name="lst_tıklatmama.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_tıklatmama.Name" xml:space="preserve">
+    <value>lst_tıklatmama</value>
+  </data>
+  <data name="&gt;&gt;lst_tıklatmama.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_tıklatmama.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_tıklatmama.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="metroLink1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 823</value>
+  </data>
+  <data name="metroLink1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 23</value>
+  </data>
+  <data name="metroLink1.TabIndex" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="metroLink1.Text" xml:space="preserve">
+    <value>Hatalı Doğrulama Kodlarını Göster</value>
+  </data>
+  <data name="&gt;&gt;metroLink1.Name" xml:space="preserve">
+    <value>metroLink1</value>
+  </data>
+  <data name="&gt;&gt;metroLink1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLink, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLink1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLink1.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="listBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 848</value>
+  </data>
+  <data name="listBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 117</value>
+  </data>
+  <data name="listBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>126</value>
+  </data>
+  <data name="listBox4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox4.Name" xml:space="preserve">
+    <value>listBox4</value>
+  </data>
+  <data name="&gt;&gt;listBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox4.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="lst4_kutucuk.Location" type="System.Drawing.Point, System.Drawing">
+    <value>683, 723</value>
+  </data>
+  <data name="lst4_kutucuk.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 30</value>
+  </data>
+  <data name="lst4_kutucuk.TabIndex" type="System.Int32, mscorlib">
+    <value>127</value>
+  </data>
+  <data name="lst4_kutucuk.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst4_kutucuk.Name" xml:space="preserve">
+    <value>lst4_kutucuk</value>
+  </data>
+  <data name="&gt;&gt;lst4_kutucuk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst4_kutucuk.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst4_kutucuk.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="lst3_kutucuk.Location" type="System.Drawing.Point, System.Drawing">
+    <value>716, 723</value>
+  </data>
+  <data name="lst3_kutucuk.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 30</value>
+  </data>
+  <data name="lst3_kutucuk.TabIndex" type="System.Int32, mscorlib">
+    <value>128</value>
+  </data>
+  <data name="lst3_kutucuk.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst3_kutucuk.Name" xml:space="preserve">
+    <value>lst3_kutucuk</value>
+  </data>
+  <data name="&gt;&gt;lst3_kutucuk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst3_kutucuk.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst3_kutucuk.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="metroLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>478, 451</value>
+  </data>
+  <data name="metroLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="metroLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>130</value>
+  </data>
+  <data name="metroLabel1.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="metroLabel1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel1.Name" xml:space="preserve">
+    <value>metroLabel1</value>
+  </data>
+  <data name="&gt;&gt;metroLabel1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel1.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="metroLabel13.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>323, 451</value>
+  </data>
+  <data name="metroLabel13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 19</value>
+  </data>
+  <data name="metroLabel13.TabIndex" type="System.Int32, mscorlib">
+    <value>129</value>
+  </data>
+  <data name="metroLabel13.Text" xml:space="preserve">
+    <value>Geçerli Toplam Kişi Sayısı:</value>
+  </data>
+  <data name="&gt;&gt;metroLabel13.Name" xml:space="preserve">
+    <value>metroLabel13</value>
+  </data>
+  <data name="&gt;&gt;metroLabel13.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel13.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel13.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="mtg_aranacak.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="mtg_aranacak.Location" type="System.Drawing.Point, System.Drawing">
+    <value>656, 631</value>
+  </data>
+  <data name="mtg_aranacak.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 21</value>
+  </data>
+  <data name="mtg_aranacak.TabIndex" type="System.Int32, mscorlib">
+    <value>132</value>
+  </data>
+  <data name="mtg_aranacak.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;mtg_aranacak.Name" xml:space="preserve">
+    <value>mtg_aranacak</value>
+  </data>
+  <data name="&gt;&gt;mtg_aranacak.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;mtg_aranacak.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mtg_aranacak.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="metroGrid9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>239, 607</value>
+  </data>
+  <data name="metroGrid9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>334, 362</value>
+  </data>
+  <data name="metroGrid9.TabIndex" type="System.Int32, mscorlib">
+    <value>133</value>
+  </data>
+  <data name="&gt;&gt;metroGrid9.Name" xml:space="preserve">
+    <value>metroGrid9</value>
+  </data>
+  <data name="&gt;&gt;metroGrid9.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid9.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="listBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>684, 615</value>
+  </data>
+  <data name="listBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 30</value>
+  </data>
+  <data name="listBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>134</value>
+  </data>
+  <data name="listBox6.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox6.Name" xml:space="preserve">
+    <value>listBox6</value>
+  </data>
+  <data name="&gt;&gt;listBox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox6.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="listBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>716, 615</value>
+  </data>
+  <data name="listBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 30</value>
+  </data>
+  <data name="listBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>135</value>
+  </data>
+  <data name="listBox7.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;listBox7.Name" xml:space="preserve">
+    <value>listBox7</value>
+  </data>
+  <data name="&gt;&gt;listBox7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox7.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="metroLink2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 5</value>
+  </data>
+  <data name="metroLink2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>295, 23</value>
+  </data>
+  <data name="metroLink2.TabIndex" type="System.Int32, mscorlib">
+    <value>136</value>
+  </data>
+  <data name="metroLink2.Text" xml:space="preserve">
+    <value>Program Hakkında Detaylı Bilgi Almak için Tıklayınız</value>
+  </data>
+  <data name="&gt;&gt;metroLink2.Name" xml:space="preserve">
+    <value>metroLink2</value>
+  </data>
+  <data name="&gt;&gt;metroLink2.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLink, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLink2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLink2.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="lst_mailler.Location" type="System.Drawing.Point, System.Drawing">
+    <value>726, 651</value>
+  </data>
+  <data name="lst_mailler.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 30</value>
+  </data>
+  <data name="lst_mailler.TabIndex" type="System.Int32, mscorlib">
+    <value>137</value>
+  </data>
+  <data name="lst_mailler.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lst_mailler.Name" xml:space="preserve">
+    <value>lst_mailler</value>
+  </data>
+  <data name="&gt;&gt;lst_mailler.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lst_mailler.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lst_mailler.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="metroGrid10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>239, 63</value>
+  </data>
+  <data name="metroGrid10.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="metroGrid10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>334, 362</value>
+  </data>
+  <data name="metroGrid10.TabIndex" type="System.Int32, mscorlib">
+    <value>139</value>
+  </data>
+  <data name="&gt;&gt;metroGrid10.Name" xml:space="preserve">
+    <value>metroGrid10</value>
+  </data>
+  <data name="&gt;&gt;metroGrid10.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid10.ZOrder" xml:space="preserve">
+    <value>68</value>
+  </data>
+  <data name="metroGrid11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11px</value>
+  </data>
+  <data name="metroGrid11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>605, 629</value>
+  </data>
+  <data name="metroGrid11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 23</value>
+  </data>
+  <data name="metroGrid11.TabIndex" type="System.Int32, mscorlib">
+    <value>140</value>
+  </data>
+  <data name="metroGrid11.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroGrid11.Name" xml:space="preserve">
+    <value>metroGrid11</value>
+  </data>
+  <data name="&gt;&gt;metroGrid11.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroGrid, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroGrid11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroGrid11.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="metroLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1022, 972</value>
+  </data>
+  <data name="metroLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 19</value>
+  </data>
+  <data name="metroLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>141</value>
+  </data>
+  <data name="metroLabel2.Text" xml:space="preserve">
+    <value>Toplam Oy Sayısı:</value>
+  </data>
+  <data name="metroLabel2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel2.Name" xml:space="preserve">
+    <value>metroLabel2</value>
+  </data>
+  <data name="&gt;&gt;metroLabel2.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel2.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="metroLabel14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1130, 973</value>
+  </data>
+  <data name="metroLabel14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 23</value>
+  </data>
+  <data name="metroLabel14.TabIndex" type="System.Int32, mscorlib">
+    <value>142</value>
+  </data>
+  <data name="metroLabel14.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="metroLabel14.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;metroLabel14.Name" xml:space="preserve">
+    <value>metroLabel14</value>
+  </data>
+  <data name="&gt;&gt;metroLabel14.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel14.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel14.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btn_sifirla.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1483, 972</value>
+  </data>
+  <data name="btn_sifirla.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 23</value>
+  </data>
+  <data name="btn_sifirla.TabIndex" type="System.Int32, mscorlib">
+    <value>143</value>
+  </data>
+  <data name="btn_sifirla.Text" xml:space="preserve">
+    <value>Yeni Oy Sayımı Oluştur</value>
+  </data>
+  <data name="btn_sifirla.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;btn_sifirla.Name" xml:space="preserve">
+    <value>btn_sifirla</value>
+  </data>
+  <data name="&gt;&gt;btn_sifirla.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;btn_sifirla.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_sifirla.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="metroLink4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>294, 5</value>
+  </data>
+  <data name="metroLink4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>325, 23</value>
+  </data>
+  <data name="metroLink4.TabIndex" type="System.Int32, mscorlib">
+    <value>144</value>
+  </data>
+  <data name="metroLink4.Text" xml:space="preserve">
+    <value>Kod Gönderen Mail Adresini Düzenlemek için Tıklayınız</value>
+  </data>
+  <data name="&gt;&gt;metroLink4.Name" xml:space="preserve">
+    <value>metroLink4</value>
+  </data>
+  <data name="&gt;&gt;metroLink4.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLink, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLink4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLink4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="metroLabel18.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="metroLabel18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>290, 5</value>
+  </data>
+  <data name="metroLabel18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>14, 19</value>
+  </data>
+  <data name="metroLabel18.TabIndex" type="System.Int32, mscorlib">
+    <value>145</value>
+  </data>
+  <data name="metroLabel18.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;metroLabel18.Name" xml:space="preserve">
+    <value>metroLabel18</value>
+  </data>
+  <data name="&gt;&gt;metroLabel18.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel18.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel18.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="metroTile4.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="metroTile4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 759</value>
+  </data>
+  <data name="metroTile4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 210</value>
+  </data>
+  <data name="metroTile4.TabIndex" type="System.Int32, mscorlib">
+    <value>109</value>
+  </data>
+  <data name="metroTile4.Text" xml:space="preserve">
+    <value>Hadi Seçim Zamanı!</value>
+  </data>
+  <data name="&gt;&gt;metroTile4.Name" xml:space="preserve">
+    <value>metroTile4</value>
+  </data>
+  <data name="&gt;&gt;metroTile4.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTile, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroTile4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroTile4.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="metroTile3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 607</value>
+  </data>
+  <data name="metroTile3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 210</value>
+  </data>
+  <data name="metroTile3.TabIndex" type="System.Int32, mscorlib">
+    <value>90</value>
+  </data>
+  <data name="metroTile3.Text" xml:space="preserve">
+    <value>Alınan Doğrulama Kod. Getir</value>
+  </data>
+  <data name="&gt;&gt;metroTile3.Name" xml:space="preserve">
+    <value>metroTile3</value>
+  </data>
+  <data name="&gt;&gt;metroTile3.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTile, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroTile3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroTile3.ZOrder" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>789, 571</value>
+  </data>
+  <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 447</value>
+  </data>
+  <data name="pictureBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>89</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Name" xml:space="preserve">
+    <value>pictureBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
+    <value>51</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>789, 63</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 447</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>87</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>52</value>
+  </data>
+  <data name="metroTile2.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="metroTile2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 215</value>
+  </data>
+  <data name="metroTile2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 210</value>
+  </data>
+  <data name="metroTile2.TabIndex" type="System.Int32, mscorlib">
+    <value>77</value>
+  </data>
+  <data name="metroTile2.Text" xml:space="preserve">
+    <value>Doğrulama Kodlarını Gönder</value>
+  </data>
+  <data name="&gt;&gt;metroTile2.Name" xml:space="preserve">
+    <value>metroTile2</value>
+  </data>
+  <data name="&gt;&gt;metroTile2.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTile, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroTile2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroTile2.ZOrder" xml:space="preserve">
+    <value>57</value>
+  </data>
+  <data name="metroTile1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 63</value>
+  </data>
+  <data name="metroTile1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 210</value>
+  </data>
+  <data name="metroTile1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="metroTile1.Text" xml:space="preserve">
+    <value>Oy Vermek İsteyenleri Getir</value>
+  </data>
+  <data name="&gt;&gt;metroTile1.Name" xml:space="preserve">
+    <value>metroTile1</value>
+  </data>
+  <data name="&gt;&gt;metroTile1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTile, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroTile1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroTile1.ZOrder" xml:space="preserve">
+    <value>64</value>
+  </data>
+  <data name="pictureBox2.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 509</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>789, 63</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>88</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
+    <value>65</value>
+  </data>
+  <data name="metroLabel19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>286, 658</value>
+  </data>
+  <data name="metroLabel19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>229, 163</value>
+  </data>
+  <data name="metroLabel19.TabIndex" type="System.Int32, mscorlib">
+    <value>146</value>
+  </data>
+  <data name="metroLabel19.Text" xml:space="preserve">
+    <value>"Kapalı Oy Açık Sayım" usülüne göre seçim gerçekleştirileceği için burada herhangi bir şekilde "Kişisel Bilgi", "Gönderilmiş Olan Kod" ve "Alınan Oy" bilgileri gözükmeyecektir. Seçim sonuçlarına gelebilecek olan olası itirazlar için "Bilgileri Göster" tuşuna basılarak bilgiler görülebilecektir.</value>
+  </data>
+  <data name="&gt;&gt;metroLabel19.Name" xml:space="preserve">
+    <value>metroLabel19</value>
+  </data>
+  <data name="&gt;&gt;metroLabel19.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroLabel19.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroLabel19.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="metroButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 877</value>
+  </data>
+  <data name="metroButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 23</value>
+  </data>
+  <data name="metroButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>147</value>
+  </data>
+  <data name="metroButton1.Text" xml:space="preserve">
+    <value>Bilgileri Göster</value>
+  </data>
+  <data name="&gt;&gt;metroButton1.Name" xml:space="preserve">
+    <value>metroButton1</value>
+  </data>
+  <data name="&gt;&gt;metroButton1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroButton1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1641, 1083</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>HÜPT Seçim</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>MetroFramework.Forms.MetroForm, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+</root>

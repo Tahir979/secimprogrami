@@ -1,0 +1,38 @@
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\Seçim Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\Seçim Uygulaması.exe
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\Seçim Uygulaması.pdb
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.Form1.resources
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.exe
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.pdb
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.Form_Loading.resources
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.frm_bilgi.resources
+C:\Users\wasd0\Desktop\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.sifre.resources
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\Seçim Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\Seçim Uygulaması.exe
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\Seçim Uygulaması.pdb
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.Form1.resources
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.Form_Loading.resources
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.frm_bilgi.resources
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim_Uygulaması.sifre.resources
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.exe
+C:\Users\wasd0\Desktop\Topluluk Programları\Seçim Uygulaması\Seçim Uygulaması\obj\Debug\Seçim Uygulaması.pdb
